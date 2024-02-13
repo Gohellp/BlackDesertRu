@@ -1,0 +1,2 @@
+REPLECE-ME_GuildId
+REPLECE-ME_ChannelId
